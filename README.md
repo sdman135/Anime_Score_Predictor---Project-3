@@ -21,6 +21,8 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
+* I then played around with training models
+
 
 
 ## Built With
