@@ -8,11 +8,17 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 ## What Did I Do?
 
 * Imported .cvs file
+
 * Cleaned .csv file and removed all hentai.
+
 * Created Dummies variables for non-numerical data (for columns : Type, Source, Rating) so we can work with these data.
+
 * Visualized all data against each other to see if we can find any solid correlations
+
 ![](images/pairplotAnime.csv.jpg)
+
 * Found correlations between each category.
+
 ![](images/Corr.heatmap.png)
 
 
