@@ -3,7 +3,7 @@
 
 Project3-Anime Database
 
-For my third project in Flatiron I wanted to use a dataset I really was interested in. I chose to do my project on anime. Specifically  data on anime from myAnimelist.net. I used a .csv file from kaggle.com the had data from myAnimeList.net and I had to drop more then half of the dataset because it was mainly hentai and I'm not interested in that for this project. Maybe later... but seriously from 14,478 to 5,561 unique anime data points and a few entries that were not usable.
+For my third project in Flatiron I wanted to use a dataset I really was interested in. I chose to do my project on anime. Specifically  data on anime from myAnimelist.net. I used a .csv file from kaggle.com the had data from myAnimeList.net. I had to drop more then half of the dataset because it was mainly hentai and I'm not interested in that for this project. Maybe later... but seriously from 14,478 to 5,561 unique anime data points and a few entries that were not usable.
 
 ## What Did I Do?
 
@@ -29,6 +29,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 * Python3.8
 * Jupyter Notebook 6.0.0
+* And a few imports into the Jupyter Notebook
 
 
 
