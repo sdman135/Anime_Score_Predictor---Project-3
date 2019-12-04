@@ -23,7 +23,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 * I then played around with training models (Linear,Logistic,Ridge, Lasso and Knn Regressions)
 
-![](membersvscored_by_reg.png)
+![](images/membersvscored_by_reg.png)
 
 ## Built With
 
