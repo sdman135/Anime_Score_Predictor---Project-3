@@ -21,9 +21,9 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then played around with training models
+* I then played around with training models (Linear,Logistic,Ridge, Lasso and Knn Regressions)
 
-
+![](membersvscored_by_reg.png)
 
 ## Built With
 
