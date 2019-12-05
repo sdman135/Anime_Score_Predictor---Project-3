@@ -23,15 +23,25 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 * I then played around with training models (Linear,Logistic,Ridge, Lasso and Knn Regressions)
 
+Total # of Scores against Total # of Members of a Anime
 ![](images/membersvscored_by_reg.png)
+
+Rank against Score of a Anime
+![](images/rankvscore_reg.png)
+
 
 ## Built With
 
 * Python3.8
 * Jupyter Notebook 6.0.0
-* And a few imports into the Jupyter Notebook
+* A few imports into the Jupyter Notebook:
 
-
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+statsmodels
+sklearn
 
 
 ## Authors
