@@ -35,13 +35,12 @@ Rank against Score of a Anime
 * Python3.8
 * Jupyter Notebook 6.0.0
 * A few imports into the Jupyter Notebook:
-\n
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-statsmodels
-sklearn
+  -pandas
+  -numpy
+  -matplotlib.pyplot
+  -seaborn
+  -statsmodels
+  -sklearn
 
 
 ## Authors
