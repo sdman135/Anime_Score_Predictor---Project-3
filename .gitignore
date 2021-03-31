@@ -118,3 +118,4 @@ Thumbs.db
 */.ipynb_checkpoints/*
 # config file
 config.py
+/data/*
