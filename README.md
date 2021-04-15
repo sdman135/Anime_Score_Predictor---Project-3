@@ -11,7 +11,9 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 * Cleaned .csv file and removed all hentai.
 
-* Created Dummies variables for non-numerical data (for columns : Type, Source, Rating) so we can work with these data.
+* Created Dummies variables, using LabelEncoder, for non-numerical data (for columns : Type, Source, Rating) so we can work with these categorical data.
+
+![](images/LabelEncoder.JPG)
 
 * Visualized all data against each other to see if we can find any solid correlations
 
@@ -21,10 +23,8 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then played around with training models (K-Nearest Neighbors, Simple and Multiple Linear, Ridge, Lasso and Polynomial Regressions)
+* I then made a few models (K-Nearest Neighbors, Simple and Multiple Linear, Ridge, Lasso and Polynomial Regressions) to predict the scores.
 
-Total # of Scores against Total # of Members of an Anime
-![](images/membersvscored_by_reg.png)
 
 Rank against Score of an Anime
 ![](images/rankvscore_reg.png)
