@@ -21,7 +21,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then played around with training models (Linear,Logistic,Ridge, Lasso and Knn Regressions)
+* I then played around with training models (K-Nearest Neighbors, Simple and Multiple Linear, Ridge, Lasso and Polynomial Regressions)
 
 Total # of Scores against Total # of Members of an Anime
 ![](images/membersvscored_by_reg.png)
