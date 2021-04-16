@@ -29,7 +29,12 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 ![](images/Grid_Lasso.JPG)
 
 * Predicting Score of an Anime (Not in dataset) - Manually inputted Anime info
+
+Anime with release date 2019 (last release year supported in the dataset)
 ![](images/Predict_example.JPG)
+
+Anime with release date pass 2019 (release year not supported in the dataset)
+![](images/Predict_example_2.JPG)
 
 
 ## Built With
