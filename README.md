@@ -1,4 +1,4 @@
-# Project3-Anime
+# Flatiron Project-3 --- Anime Score Predictor
 ![](images/dataset-cover.png)
 
 Project3-Anime Database
