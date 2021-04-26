@@ -119,3 +119,4 @@ Thumbs.db
 # config file
 config.py
 /data/*
+/models/*
