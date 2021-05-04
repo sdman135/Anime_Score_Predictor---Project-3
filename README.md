@@ -33,7 +33,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 Anime with release date 2018 (release year supported in the dataset)
 ![](images/Predict_example_1.JPG)
 
-Anime with release date pass 2019 (release year not supported in the dataset)
+Anime with release date pass 2019 (last release year supported in the dataset)
 ![](images/Predict_example.JPG)
 
 ![](images/Predict_example_2.JPG)
