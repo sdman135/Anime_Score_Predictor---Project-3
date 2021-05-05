@@ -23,7 +23,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then made a few models (Simple and Multiple Linear, Ridge, Lasso, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions) to predict the scores.
+* I then made a few models (Simple and Multiple Linear, Ridge, Lasso, Elastic Net, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions) to predict the scores.
 
 - My best preforming model has an accuracy of ~93.26% (Polyinomal and Gradient Boost Regression Pipeline) model's Test score: 
 ![](images/Grid_Poly.JPG)
