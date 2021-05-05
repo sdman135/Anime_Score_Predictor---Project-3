@@ -23,9 +23,9 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then made a few models (Simple and Multiple Linear, Ridge, Lasso, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions) to predict the scores.
+* I then made a few models (Simple and Multiple Linear, Ridge, Lasso, Elastic Net, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions) to predict the scores.
 
-- My best preforming model has an accuracy of ~93.26% (Polyinomal and Gradient Boost Regression Pipeline) model's Test score: 
+- My best preforming model has an Test score accuracy of ~93.26% (Polyinomal and Gradient Boost Regression Pipeline): 
 ![](images/Grid_Poly.JPG)
 
 * Predicting Score of an Anime (Not in dataset) - Manually inputted Anime info
@@ -33,7 +33,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 Anime with release date 2018 (release year supported in the dataset)
 ![](images/Predict_example_1.JPG)
 
-Anime with release date pass 2019 (release year not supported in the dataset)
+Anime with release date pass 2019 (last release year supported in the dataset)
 ![](images/Predict_example.JPG)
 
 ![](images/Predict_example_2.JPG)
