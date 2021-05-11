@@ -23,7 +23,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then made a few models (Simple and Multiple Linear, Ridge, Lasso, Elastic Net, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions) to predict the scores.
+* I then made a few models (Multiple Linear, Ridge, Lasso, Elastic Net, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions while using GridSearch to find optimal hyperparameters) to predict the scores.
 
 - My best preforming model has an Test score accuracy of ~93.26% (Polyinomal and Gradient Boost Regression Pipeline): 
 ![](images/Grid_Poly.JPG)
@@ -59,4 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Azathoth - https://www.kaggle.com/azathoth42/myanimelist (the initial .csv file I used, had to clean heavily though...)
-* codebacis - https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
