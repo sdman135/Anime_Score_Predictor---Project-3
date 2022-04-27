@@ -3,7 +3,7 @@
 
 Project3-Anime Database
 
-For my third project in Flatiron I wanted to use a dataset I really was interested in. I chose to do my project on anime. Specifically  data on anime from myAnimelist.net. I used a .csv file from kaggle.com the had data from myAnimeList.net. I had to drop more then half of the dataset because it was mainly hentai and I'm not interested in that for this project. Maybe later... but seriously from 14,478 to 5,561 unique anime data points and a few entries that were not usable.
+For my third project in Flatiron I wanted to use a dataset I really was interested in. I chose to do my project on anime. Specifically data on anime from myAnimelist.net. I used anime data, collected from myAnimeList.net containing various data on the shows (ie. genre, duration, release date, etc.). I had to drop more then half of the dataset because it was mainly hentai and I'm not interested in that for this project. Maybe later... but seriously from 14,478 to 5,561 unique anime data points and a few entries that were not usable.
 
 ## What Did I Do?
 
@@ -23,7 +23,7 @@ For my third project in Flatiron I wanted to use a dataset I really was interest
 
 ![](images/Corr.heatmap.png)
 
-* I then made a few models (Multiple Linear, Ridge, Lasso, Elastic Net, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions while using GridSearch to find optimal hyperparameters) to predict the scores.
+* I then made a few regression models to predict the scores (Multiple Linear, Ridge, Lasso, Elastic Net, Gradient Boosting and Pipeline with Polynomial & Gradient Boosting Regressions) while using GridSearch to find optimal hyperparameters.
 
 - My best preforming model has an Test score accuracy of ~93.26% (Polyinomal and Gradient Boost Regression Pipeline): 
 ![](images/Grid_Poly.JPG)
